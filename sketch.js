@@ -678,7 +678,6 @@ function draw() {
     redsq.visible = false;
     round = 0
     turn = turn + 1
-    turn = 0
   }
 
 }
